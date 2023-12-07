@@ -14,3 +14,7 @@
    - 华为源：https://mirrors.huaweicloud.com/home
    - 网易源：http://mirrors.163.com/
 - [Install git](install_git.sh) - 从git官网上下载并编译安装最新版本的git
+- [Install  dragonwell jdk](install_dragonwell_jdk.sh) - 从<a href="https://dragonwell-jdk.io/#/index"> Alibaba Dragonwell </a>官网上下载jdk并进行配置安装，仅支持标准版
+   - Alibaba Dragonwell Standard jdk 8.16.17
+   - Alibaba Dragonwell Standard jdk 11.0.20.16.8
+   - Alibaba Dragonwell Standard jdk 17.0.9.0.10
