@@ -17,4 +17,4 @@
 - [Install  dragonwell jdk](install_dragonwell_jdk.sh) - 从<a href="https://dragonwell-jdk.io/#/index"> Alibaba Dragonwell </a>官网上下载jdk并进行配置安装，仅支持标准版
    - Alibaba Dragonwell Standard jdk 8.16.17
    - Alibaba Dragonwell Standard jdk 11.0.20.16.8
-   - Alibaba Dragonwell Standard jdk 17.0.9.0.10
+   - Alibaba Dragonwell Standard jdk 17.0.8.0.8.7
